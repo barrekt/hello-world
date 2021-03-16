@@ -7,5 +7,5 @@ GitHub repo's use 'branches'. This is away of creating 'versions' of an element 
 
 By editing the readme-edits branch, I can then commmit (save) changes to the main (production) branch when I am happy with the changes.
 
-I'm going to try that by committing this README.md from the readme-edit branch to main.
+I have made changes to this README.md file. 'committing' will save the file to this branch.
 
