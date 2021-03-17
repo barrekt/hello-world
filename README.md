@@ -1,5 +1,5 @@
 # hello-world
-Intro to GitHub test to play with new branch and change requests
+Intro to GitHub test to play with new branches, commits and pullrequests
 
 I'm not a dev, but using this example as a way of learning the proccesses involved with GitHub.
 
